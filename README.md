@@ -5,7 +5,7 @@ This is a simple dotnet application hosting helloworld page using Cloud Foundry.
 
 After installing in the 'cf' [command-line interface](http://docs.cloudfoundry.com/docs/using/managing-apps/cf/) for Cloud Foundry, targeting a Cloud Foundry instance, and logging in, the application can be pushed using these commands:
 
-    $ git clone <repo_link>
+    $ git clone https://github.com/akashkrkashyap/dotnet-core-hello-world.git
     $ cd dotnet-core-hello-world
     $ cf push
     ...
